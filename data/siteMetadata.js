@@ -6,7 +6,7 @@ const siteMetadata = {
     'A blog exploring higher education IT cloud and data topics, projects, musings and more.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://my.jpthomas.cloud',
   siteRepo: 'https://github.com/jptrepo/jtblog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
@@ -31,7 +31,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: 'mailchimp',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
