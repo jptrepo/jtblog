@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "Josh's web blog",
   author: 'Joshua Thomas',
-  headerTitle: 'CloudJPT-3',
+  headerTitle: "Joshin' me",
   description:
     'A blog exploring higher education IT cloud and data topics, projects, musings and more.',
   language: 'en-us',
